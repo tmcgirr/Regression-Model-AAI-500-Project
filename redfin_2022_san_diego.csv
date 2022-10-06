@@ -1,0 +1,27 @@
+SALE TYPE,use = as is / text,Filter MLS Listing,Nominal
+SOLD DATE,No data,,
+PROPERTY TYPE,use = as is / text,Filter Single Family Residential,Nominal
+ADDRESS,use = as is / text,,Nominal
+CITY,use = as is / text,,Nominal
+STATE OR PROVINCE,use = as is / text,,Nominal
+ZIP OR POSTAL CODE,use = as is / number,,Nominal
+PRICE,use = as is / number,,Interval
+BEDS,use = as is / number,,Interval
+BATHS,use = as is / number,,Interval
+LOCATION,use = as is / text,sublevel to CITY,Ordinal
+SQUARE FEET,use = as is / number,,Ratio
+LOT SIZE,use = as is / number,,Ratio
+YEAR BUILT,use = as is / number,,Ratio
+DAYS ON MARKET,use = as is / number,,Ratio
+$/SQUARE FEET,use = as is / number,Cal,Ratio
+HOA/MONTH,use = as is / number,Not sure we will use,
+STATUS,use = as is / text,Filter Active,Nominal
+NEXT OPEN HOUSE START TIME,No need,,
+NEXT OPEN HOUSE END TIME,No need,,
+URL (SEE https://www.redfin.com/buy-a-home/comparative-market-analysis FOR INFO ON PRICING),No need,,
+SOURCE,No need,,
+MLS#,No need,,
+FAVORITE,No need,,
+INTERESTED,No need,,
+LATITUDE,No need,,
+LONGITUDE,No need,,
