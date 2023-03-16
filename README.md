@@ -14,4 +14,4 @@ Data
 -----------------------------
 [This](df_model_rand_houses_by_zip.csv) file contains the housing data and features that were cleaned and fed into the regression model
 
-[This](Multiple_Linear_Model_B_Zipcode.ipynb) Contans the notebook that will go through the steps of cleaning the data, preparing the data for the regression model, training the model, scoring the model and additional predictions using the trained model.
+[This](Multiple_Linear_Model_B_Zipcode.ipynb) file contains the notebook that will go through the steps of cleaning the data, preparing the data for the regression model, training the model, scoring the model and additional predictions using the trained model.
