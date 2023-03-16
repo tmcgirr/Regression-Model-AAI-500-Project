@@ -1,4 +1,4 @@
-# AAI-500-FA22-Project
+# AAI-500-FA22-Project (Intro Course)
 ### USD Applied Artificial intelligence - AAI-500-FA22 - Final Project Team 4
 
 This project aims to predict the housing price based on several features and serves as a simple project following the coursework in a program. (Revision of this project would aim to revisit feature selection to avoid multicollinearity, possible finetuning, and additional data preprocessing steps.)
